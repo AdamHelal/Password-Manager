@@ -21,6 +21,9 @@
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
 * [Demo](#demo)
+* [Code]
+    * [Front End](https://github.com/AdamHelal/Password-Manager/tree/main/App)
+    * [Back End](https://github.com/ymi05/password-manager-backend)   
 
 
 <!-- ABOUT THE PROJECT -->
@@ -32,7 +35,6 @@ encryption, two factor authentication, password feedback/recommendations and mor
 
 ## Demo
 https://user-images.githubusercontent.com/49691891/121182262-931ae000-c86b-11eb-8e9f-9fd393db17fd.mp4
-
 
 ### Built With
 
