@@ -20,7 +20,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
-* [Demo](# demo)
+* [Demo](#demo)
 
 
 <!-- ABOUT THE PROJECT -->
