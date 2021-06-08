@@ -21,9 +21,6 @@
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
 * [Demo](#demo)
-* Code
-    * [Front End](https://github.com/AdamHelal/Password-Manager/tree/main/App)
-    * [Back End](https://github.com/ymi05/password-manager-backend)   
 
 
 <!-- ABOUT THE PROJECT -->
